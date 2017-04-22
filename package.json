@@ -1,0 +1,18 @@
+{
+  "name": "simplesrv",
+  "version": "0.1.0",
+  "description": "Simple App on Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker",
+    "node"
+  ],
+  "dependencies": {
+    "express": "3.2.4"
+  },
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com> (https://desarrolloactivo.com)",
+  "license": "MIT"
+}
